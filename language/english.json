@@ -1,0 +1,26 @@
+{
+    "startup": {
+        "PERMISSION_REQUIRED": ["Lütfen bota YÖNETİCİ izni verin."],
+        "MISSING_ROLE_IDS": ["Lütfen settings.json'daki tüm detayları doldurun, kafanız karıştıysa bu videoyu izleyin: https://some.video"],
+        "SETUP_MESSAGE_1": ["Setting up the modmail bot in the server."],
+        "SETUP_MESSAGE_2": ["Setup completed, create a new category with name 'Mod Mail'"],
+        "CONNECTED": ["{{name}} is Connected to discord, watching {{memberCount}} Members"]
+    },
+    "system": {
+        "MEMBER_NOT_FOUND": "Üye bulunamadı ({{member}}) sunucuda",
+        "PARENT_MISSING": "Ebeveyn kimliği alınamıyor, bu yüzden yedekleniyor.",
+        "CHANNEL_TOPIC": "Bu mail yardımcı olmak için oluşturulmuştur. **{{member}}**",
+        "SUCCESS_EMBED": {
+            "AUTHOR": ["POSTA ALINDI"],
+            "DESCRIPTION": ["Sohbet başladı, yakında yetkililer sizinle iletişime geçecek :D"]
+        },
+        "DETAILS_EMBED": {
+            "AUTHOR": ["DETAYLAR"],
+            "DESCRIPTION": ["{{content}}"]
+        },
+        "DELETE_EMBED": {
+            "AUTHOR": ["POSTA SİLİNDİ"],
+            "DESCRIPTION": ["Mailiniz moderatör tarafından silindi ve eğer bir sorun yaşarsanız buradan mesaj atarak maili tekrar açabilirsiniz."]
+        }
+    }
+}
